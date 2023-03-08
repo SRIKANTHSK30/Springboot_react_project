@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+*{
+    margin:0;
+}
+table{
+   margin-left: 65px;
+    padding-top: 10px;
+    color: white;
+    /* padding-bottom: 10px; */
+    font-size: 1rem;
+    font-family: "Inter", sans-serif;
+    
+}
+
+.min{
+    padding-top:100px;
+}
+th,tr,th,td
+{
+    width: 150px;
+    padding: 1px;
+    color:black;
+}
